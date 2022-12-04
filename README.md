@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou trabalhando de suporte tecnico
-- 🌱 atualmente estou aprendendo sobre banco de dados
+- 🌱 atualmente estou aprendendo sobre banco de dados e python
 
 <div align="center">
   <a href="https://github.com/Cleb3rbatista">
